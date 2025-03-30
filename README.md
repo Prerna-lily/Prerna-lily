@@ -8,13 +8,8 @@
 - 💬 Ask me about **Python, MERN Stack, or AI prototyping**.  
 - ⚡ Fun fact: I love building **AI chatbots** in my free time!  
 
-🛠 **Tech Stack:**  
-- **AI/ML:** Python, TensorFlow, PyTorch, OpenAI, Hugging Face  
-- **Web Dev:** React, Next.js, Node.js, MongoDB, Firebase  
-- **Tools:** Git, Docker, VS Code, Jupyter Notebook  
-
 💼 **Experience:**  
-- **Freelance Web Developer** (2023–Present)  
+- **Freelance Web Developer** (2024–Present)  
   - Built full-stack apps with AI integrations.  
 - **Team Lead @ JMedia Corp** (6 months)  
   - Led a dev team in delivering client projects.  
